@@ -1,15 +1,21 @@
 # Hi there, I'm Tony! 👋
 
 ## About Me
-I'm a Computer Engineering student at the University of Waterloo, passionate about leveraging technology to solve real-world problems.
+I'm a Computer Engineering student at the University of Waterloo with a passion for building technology that makes a difference. Currently focused on full-stack web development, AI integration and research where I bring 1+ year of hands-on experience building scalable solutions across healthcare, cybersecurity, and education domains.
+
+## Tech Stack
+ - Frontend: React.js, React Native, TypeScript, CSS, HTML
+ - Backend: Java Spring Boot, FAST API, Node JS
+ - Database: PostgreSQL, Elasticsearch
+ - Tools & Others: Git, GraphQL, Docker, AWS, OpenAI
 
 ## 🚀 Featured Projects
 
 ### T1D Change Point Detection Benchmark
-A comprehensive benchmark dataset for state-of-the-art semi-supervised change point detection in Type 1 Diabetes management.
+A comprehensive benchmark dataset for state-of-the-art semi-supervised change point detection models in Type 1 Diabetes management.
 - 📦 [PyPI Package](https://pypi.org/project/t1d-cpd-benchmark/)
 - 💻 [GitHub Repository](https://github.com/Blood-Glucose-Control/t1d-change-point-detection-benchmark)
-- 🔍 Currently under active development
+- 🔍 Currently under active development. More data is coming!
 
 ### Blood Glucose Control Initiative
 Core contributor to an initiative using AI to revolutionize diabetes care.
