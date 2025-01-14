@@ -27,7 +27,7 @@ Core contributor to an initiative using AI to revolutionize diabetes care.
 An innovative English learning platform bridging educational gaps.
 - 🏫 Serves schools across Asia and individual learners
 - 📚 Provides personalized learning experiences
-- 🔗 [Project Repository](https://github.com/Accountable-learn)
+- 🔗 [Project Demo](https://github.com/Tony911029/Accountable-FE)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-chan-a871a1254/)
