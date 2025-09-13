@@ -6,7 +6,7 @@ I'm a Computer Engineering student at the University of Waterloo with a passion 
 ## Tech Stack
  - Frontend: React.js, React Native, TypeScript, CSS, HTML
  - Backend: Java Spring Boot, FAST API, Node JS
- - Database: PostgreSQL, Elasticsearch
+ - Database: PostgreSQL, Elasticsearch, Redis
  - Tools & Others: Git, GraphQL, Docker, AWS, OpenAI
 
 ## 🚀 Featured Projects
