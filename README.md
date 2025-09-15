@@ -5,11 +5,11 @@ I'm a Computer Engineering student at the University of Waterloo with a passion 
 
 ## Tech Stack
  - Frontend: React.js, React Native, TypeScript, CSS, HTML
- - Backend: Java Spring Boot, FAST API, Node JS
+ - Backend: Java Spring Boot, FAST API, NodeJS
  - Database: PostgreSQL, Elasticsearch, Redis
  - Tools & Others: Git, GraphQL, Docker, AWS, OpenAI
 
-## 🚀 Featured Projects
+## Projects
 
 ### T1D Change Point Detection Benchmark
 A comprehensive benchmark dataset for state-of-the-art semi-supervised change point detection models in Type 1 Diabetes management.
@@ -19,16 +19,16 @@ A comprehensive benchmark dataset for state-of-the-art semi-supervised change po
 
 ### Blood Glucose Control Initiative
 Core contributor to an initiative using AI to revolutionize diabetes care.
-- 🌟 [Organization](https://github.com/Blood-Glucose-Control)
-- 🎯 Mission: Improving quality of life for millions of diabetic patients worldwide
-- 🤖 Focusing on AI-driven solutions for better glucose management
+- [Organization](https://github.com/Blood-Glucose-Control)
+- Mission: Improving the quality of life for millions of diabetic patients worldwide
+- Focusing on AI-driven solutions for better glucose management
 
 ### Accountable
 An innovative English learning platform bridging educational gaps.
-- 🏫 Serves schools across Asia and individual learners
-- 📚 Provides personalized learning experiences
-- 🔗 [Project Demo](https://github.com/Tony911029/Accountable-FE)
+- Serves schools across Asia and individual learners
+- Provides personalized learning experiences
+- [Project Demo](https://github.com/Tony911029/Accountable-FE)
 
-## 📫 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-chan-a871a1254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t3chan@uwaterloo.ca)
